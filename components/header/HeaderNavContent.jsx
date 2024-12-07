@@ -54,7 +54,9 @@ const HeaderNavContent = () => {
                 : ""
             }`}
           >
-            <span>Preparation</span>
+            <Link href="/blog-list-v2">
+              <span>Preparation</span>
+            </Link>
           </li>
           {/* End Employers menu items */}
 
@@ -66,7 +68,9 @@ const HeaderNavContent = () => {
                 : ""
             }`}
           >
-            <span>About</span>
+            <Link href="/about">
+              <span>About</span>
+            </Link>
           </li>
           {/* End Employers menu items */}
 
@@ -80,7 +84,9 @@ const HeaderNavContent = () => {
                 : ""
             }`}
           >
-            <span>Contact Us</span>
+            <Link href="/contact">
+              <span>Contact Us</span>
+            </Link>
           </li>
           {/* End Pages menu items */}
         </ul>

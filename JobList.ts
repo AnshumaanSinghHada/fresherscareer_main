@@ -7,6 +7,18 @@ export const JobList = [
     link: "https://careers.wipro.com/careers-home/jobs/3114949",
     logo: "/static/img/hp.png",
     salary: "$$",
+    jobDescription:
+      "As a Product Designer, you will work within a Product Delivery Team fused with UX, engineering, product and data talent. You will help the team design beautiful interfaces that solve business challenges for our clients. We work with a number of Tier 1 banks on building web-based applications for AML, KYC and Sanctions List management workflows. This role is ideal if you are looking to segue your career into the FinTech or Big Data arenas.",
+    keyResponsiblities: [
+      "Be involved in every step of the product design cycle from discovery to developer handoff and user acceptance testing.",
+      "Work with BAs, product managers and tech teams to lead the Product Design",
+      "Maintain quality of the design process and ensure that when designs are translated into code they accurately reflect the design specifications.",
+    ],
+    skillExperience: [
+      "You have at least 3 years’ experience working as a Product Designer.",
+      "You have experience using Sketch and InVision or Framer X",
+      "ou have some previous experience working in an agile environment – Think two-week sprints.",
+    ],
   },
   {
     id: 2934,
